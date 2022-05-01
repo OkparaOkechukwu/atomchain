@@ -1,3 +1,3 @@
 # atomchain
 
-Latest whitepaper at https://okpara.net/Atomchain.pdf
+Latest whitepaper at https://okpara.net/AtomChain.pdf
