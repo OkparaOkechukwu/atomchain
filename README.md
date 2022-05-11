@@ -23,7 +23,7 @@ You can either contribute to the project, or
 support me via donations to: 
 
 Official Website, www.accessbankplc.com
-Bank Name: Access Bank of Nigeria
+Bank Name: Access Bank
 Account Name: Okpara O. D.
 Account Number: 0029737076
 
