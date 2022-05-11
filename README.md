@@ -16,3 +16,15 @@ okpara.net/AtomNetwork.pdf
 
 Distributed-decentralized Storage technology
 okpara.net/AtomStorage.pdf
+
+I currently don't have any cryptocurrency wallet associated with this project.
+To support the development of Atomchain: 
+you can either contribute to the project, or 
+support me via kind donations to: 
+
+Official Website, https://www.accessbankplc.com
+Bank Name: Access Bank of Nigeria
+Account Name: Okpara O. D.
+Account Number: 0029737076
+
+Thanks.
