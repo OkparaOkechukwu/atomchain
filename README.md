@@ -19,7 +19,8 @@ okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
 architectural design, protocols and technical specifications
-okpara.net/?devID=NULL&key=ã&hash=0x00/AtomP2P.pdf
+
+okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
 This technical document is available on request to Atomchain developers
 
 I currently don't have any cryptocurrency wallet associated with this project.
