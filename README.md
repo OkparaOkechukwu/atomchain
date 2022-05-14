@@ -11,7 +11,8 @@ Protect your home from the internet by keeping your home intact offline.
 Your home is the only access to your world
 okpara.net/AtomWallet.pdf
 
-An introduction to Atomchain P2P architecture and network overlay
+An introduction to Atomchain P2P architecture and network overlay.
+The Atomcore, energy budget, and atomcoin.json state file
 okpara.net/AtomNetwork.pdf
 
 Distributed-decentralized Storage technology
