@@ -3,7 +3,7 @@
 Read all the whitepapers:
 atomchain.okpara.net
 
-Atomchain as an alternative to blockchain
+An alternative to blockchain
 okpara.net/AtomChain.pdf
 
 You lose everything in your world(Public Key) if you lose your home(Private Key).
