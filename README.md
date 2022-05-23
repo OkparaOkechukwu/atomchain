@@ -1,9 +1,9 @@
 # atomchain
 
-Read all the whitepapers:
+Read the latest whitepapers:
 atomchain.okpara.net
 
-An alternative to blockchain
+An alternative architecture to blockchain
 okpara.net/AtomChain.pdf
 
 You lose everything in your world(Public Key) if you lose your home(Private Key).
@@ -11,10 +11,10 @@ Protect your home from the internet by keeping your home intact offline.
 Your home is the only access to your world
 okpara.net/AtomWallet.pdf
 
-Introduction to Atomchain P2P network architecture; and atomcoin.json state file
+Atomchain P2P network architecture; and atomcoin.json state file
 okpara.net/AtomNetwork.pdf
 
-Introduction to Distributed-decentralized Storage
+Distributed-decentralized Storage, and transaction events
 okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
