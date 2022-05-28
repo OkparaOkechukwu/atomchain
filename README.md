@@ -17,12 +17,12 @@ Distributed-decentralized Storage, and transaction events
 okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
-document(available on request).
+document (available on request)
 okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
 
 You may contribute to the project, or donate kindly to: 
 
-Bank Name: Access Bank ( www.accessbankplc.com )
+Bank Name: Access Bank (www.accessbankplc.com)
 
 Account Name: Okpara O. D.
 
@@ -30,10 +30,10 @@ Account NUBAN Number: 0029737076
 
 TODO:
 
-1. Atomchain Virtual Machin3, AtomVM
+1. Atomchain Virtual Machine, AtomVM
 
 2. Atom Nodes implementations: .go, .js, .py, .php, .sh, .apk, .cs, etc.
 
-3. Atom Network consensus protocol formalisms
+3. Atom Network consensus formalisms
 
-4. Orbit Codes specifications
+4. Orbit Code specifications
