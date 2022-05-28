@@ -17,8 +17,7 @@ Distributed-decentralized Storage, and transaction events
 okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
-architectural design, protocols and technical specifications. 
-This technical document is available on request to Atomchain developers.
+document(available on request).
 okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
 
 You may contribute to the project, or donate kindly to: 
