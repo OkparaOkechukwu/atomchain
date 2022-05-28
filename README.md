@@ -37,3 +37,5 @@ TODO:
 3. Atom Network consensus formalisms
 
 4. Orbit Code specifications
+
+5. Atomchain Improvement Proposals (AIP)
