@@ -3,11 +3,10 @@
 Read the latest whitepapers:
 atomchain.okpara.net
 
-An alternative architecture to blockchain
+An alternative to blockchain
 okpara.net/AtomChain.pdf
 
-You lose everything in your world(Public Key) if you lose your home(Private Key).
-Protect your home from the internet by keeping your home intact offline.
+World is your Public Key, guarded by Home, your home Private Key.
 Your home is the only access to your world
 okpara.net/AtomWallet.pdf
 
@@ -22,16 +21,20 @@ architectural design, protocols and technical specifications.
 This technical document is available on request to Atomchain developers.
 okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
 
-No cryptocurrency wallet is associated with this project.
-You can either contribute to the project, or 
-support me via donations: 
+You may contribute to the project, or donate kindly to: 
 
-www.accessbankplc.com
-
-Bank Name: Access Bank
+Bank Name: Access Bank ( www.accessbankplc.com )
 
 Account Name: Okpara O. D.
 
-Account Number: 0029737076
+Account NUBAN Number: 0029737076
 
-Thanks.
+TODO:
+
+1. Atomchain Virtual Machin3, AtomVM
+
+2. Atom Nodes implementations: .go, .js, .py, .php, .sh, .apk, .cs, etc.
+
+3. Atom Network consensus protocol formalisms
+
+4. Orbit Codes specifications
