@@ -6,7 +6,7 @@ atomchain.okpara.net
 An alternative to blockchain
 okpara.net/AtomChain.pdf
 
-World is your Public Key, guarded by Home, your home Private Key.
+World is your Public Key, guarded by Home, your Private Key.
 Your home is the only access to your world
 okpara.net/AtomWallet.pdf
 
