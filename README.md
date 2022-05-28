@@ -38,4 +38,4 @@ TODO:
 
 4. Orbit Code specifications
 
-5. Atomchain Improvement Proposals (AIP)
+5. Atomchain Improvement Proposals (AIPs)
