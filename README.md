@@ -20,8 +20,7 @@ Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
 document (available on request)
 okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
 
-Atomchain Virtual Machine (AtomVM)
-Operators, Operands, and Operations
+Atomchain Virtual Machine (AtomVM): Operators, Operands, and Operations.
 AtomVM executes both shells and orbit codes
 okpara.net/?devID=NULL&key= &hash=0x00/AtomVMware.pdf
 
