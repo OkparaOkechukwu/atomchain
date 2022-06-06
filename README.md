@@ -1,4 +1,8 @@
 # atomchain
+Welcome to Atomchain, 
+developed without the mistakes of blockchain.
+Stable. Secure. Solid.
+Distributied. Decentralized. Dogged.
 
 Read the latest whitepapers:
 atomchain.okpara.net
