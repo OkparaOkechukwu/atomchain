@@ -37,7 +37,7 @@ Account Name: Okpara O. D.
 
 Account NUBAN Number: 0029737076
 
-TODO:
+In Progress:
 
 1. Atomchain Virtual Machine, AtomVM
 
@@ -45,6 +45,8 @@ TODO:
 
 3. Atom Network consensus formalisms
 
-4. Shells and Orbit Codes (OP_CODES) specifications
+4. Shell and Orbit Codes (OP_CODES) specifications
 
-5. Atomchain Improvement Proposals (AIPs)
+To Do:
+
+1. Atomchain Improvement Proposals (AIPs)
