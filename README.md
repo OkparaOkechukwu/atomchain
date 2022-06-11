@@ -45,7 +45,7 @@ Account NUBAN Number: 0029737076
 
 In Progress:
 
-1. Atomchain Virtual Machine, AtomVM
+1. Atomchain Virtual Machine, AtomVM (32% complete)
 
 2. Atom Nodes implementations: .go, .js, .py, .php, .sh, .apk, .cs, etc.
 
