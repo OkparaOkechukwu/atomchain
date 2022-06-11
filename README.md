@@ -1,5 +1,5 @@
 # atomchain
-Welcome to Atomchain, a.k.a Atomsphere,
+Welcome to Atomchain, a.k.a. Atomsphere,
 developed without the mistakes of blockchain.
 
 Stable. Secure. Solid.
@@ -22,8 +22,14 @@ Distributed-decentralized Storage, and transaction events
 okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
-document (available on request)
+document 
+Because of how novel, disruptive, groundbreaking, 
+and masterful the AtomP2P is over the existing P2P topology employed by major blockchains, 
+I thought it essential not to expose the technologies and ideas directly to the public, 
+because of theft and obvious security reasons.
+(This document is available on request)
 okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
+
 
 Atomchain Virtual Machine (AtomVM): Operators, Operands, and Operations.
 AtomVM executes both shells and orbit codes
