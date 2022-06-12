@@ -22,10 +22,9 @@ Distributed-decentralized Storage, and transaction events
 okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Architecture
-document 
 Because of how novel, disruptive, groundbreaking, 
-and masterful the AtomP2P is over the existing P2P topology employed by major blockchains, 
-I thought it essential not to expose the technologies and ideas directly to the public, 
+and masterful the AtomP2P is over the existing P2P topologies employed by major blockchains, 
+We believe it's important not to expose the technologies and ideas directly to the public, 
 because of theft and obvious security reasons.
 (This document is available on request)
 okpara.net/?devID=NULL&key= &hash=0x00/AtomP2P.pdf
