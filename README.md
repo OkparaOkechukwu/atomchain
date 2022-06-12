@@ -56,3 +56,15 @@ In Progress:
 To Do:
 
 1. Atomchain Improvement Proposals (AIPs)
+
+#Contributions
+
+Contributions go far beyond pull requests and commits. 
+We are also happy to receive a variety of other contributions including:
+
+1. Documentation updates, improvements, or bugfixes.
+2. Corrections of README.md or redesigning it.
+3. Providing or adding unit, or functional tests
+4. Spell checking and grammar fixes
+5. Triaging GitHub issues -- especially determining whether an issue still persists or is reproducible.
+6. Blogging, social media posting, or creating tutorials about any Atomchain's feature.
