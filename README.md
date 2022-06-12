@@ -15,13 +15,13 @@ World is your Public Key, guarded by Home, your Private Key.
 Your home is the only access to your world
 okpara.net/AtomWallet.pdf
 
-Atomchain P2P network architecture; and atomcoin.json state file
+Introduction to the Atomchain Network; and atomcoin.json state file
 okpara.net/AtomNetwork.pdf
 
 Distributed-decentralized Storage, and transaction events
 okpara.net/AtomStorage.pdf
 
-Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Network
+Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Architecture
 document 
 Because of how novel, disruptive, groundbreaking, 
 and masterful the AtomP2P is over the existing P2P topology employed by major blockchains, 
