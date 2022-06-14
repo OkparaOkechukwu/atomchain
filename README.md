@@ -2,7 +2,7 @@
 Welcome to Atomchain, a.k.a. Atomsphere,
 developed without the mistakes of blockchain.
 
-Stable. Secure. Solid.
+Stable. Secure. Smart.
 Distinctive. Decentralized. Dogged.
 
 Read the latest whitepapers:
