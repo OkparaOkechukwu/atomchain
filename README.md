@@ -8,6 +8,9 @@ Distinctive. Decentralized. Dogged.
 Read the latest whitepapers:
 atomchain.okpara.net
 
+Note: We're using two databases in production:
+CouchDB and LevelDB.
+
 An alternative to blockchain
 okpara.net/AtomChain.pdf
 
@@ -23,7 +26,7 @@ okpara.net/AtomStorage.pdf
 
 Atomchain Federated Hybrid Peer-to-Peer(AtomP2P) Architecture
 Because of how novel, disruptive, groundbreaking, 
-and masterful the AtomP2P is over the existing P2P topologies employed by major blockchains, 
+and masterful the AtomP2P (and it's Node Discovery) are over the existing P2P topologies employed by major blockchains, 
 We believe it's important not to expose the technologies and ideas directly to the public, 
 because of theft and obvious security reasons.
 (This document is available on request)
@@ -36,15 +39,9 @@ okpara.net/?devID=NULL&key= &hash=0x00/AtomVMware.pdf
 
 You may contribute to the project, or donate kindly to: 
 
-Bank Name: Access Bank (www.accessbankplc.com)
-
-Account Name: Okpara O. D.
-
-Account NUBAN Number: 0029737076
-
 In Progress:
 
-1. Atomchain Virtual Machine, AtomVM (32% complete)
+1. Atomchain Virtual Machine, AtomVM (36% complete)
 
 2. Atom Nodes implementations: .go, .js, .py, .php, .sh, .apk, .cs, etc.
 
